@@ -1,4 +1,4 @@
-#Comment L'utiliser ?
+# Comment L'utiliser ?
 
 1. Lancer le install.bat
 2. Lancer ensuite le run.bat
