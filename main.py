@@ -49,7 +49,7 @@ def main():
 		titre="Panel Help"
 		desc="`Prefix actuel : " + p + "`\n\n/cmd\n**Liste des commandes**\n\n/fun\n**Affiche les commandes fun**\n\n/moderation\n**Affiche les commandes moderation**\n\n/raid\n**Affiche les commandes raid**\n\n/statut\n**Affiche les commandes statut**\n\n/credit\n**Donne les informations du créateur du selfbot**"
 		embed=discord.Embed(title=titre, description=desc, color=0)
-		embed.set_footer(text = "Goku Selfbot | Help Panel")
+		embed.set_footer(text = "Black Goku Selfbot | Help Panel")
 		embed.set_image(url = "https://cdn.discordapp.com/attachments/485011383721787415/823138692189257728/f8dc4f7e2de553ed983b75199b2bdc1e.gif")
 		await ctx.send(embed=embed)
 		while True:
