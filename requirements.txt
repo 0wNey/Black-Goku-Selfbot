@@ -1,7 +1,0 @@
-asyncio
-discord.py
-art
-termcolor
-subprocess
-json
-pyfiglet
