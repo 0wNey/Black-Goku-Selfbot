@@ -49,7 +49,7 @@ def main():
 		titre="Panel Help"
 		desc="`Prefix actuel : " + p + "`\n\n/cmd\n**Liste des commandes**\n\n/fun\n**Affiche les commandes fun**\n\n/moderation\n**Affiche les commandes moderation**\n\n/raid\n**Affiche les commandes raid**\n\n/statut\n**Affiche les commandes statut**\n\n/credit\n**Donne les informations du créateur du selfbot**"
 		embed=discord.Embed(title=titre, description=desc, color=0)
-		embed.set_footer(text = "Black Goku Selfbot | Help Panel")
+		embed.set_footer(text = "Goku Selfbot | Help Panel")
 		embed.set_image(url = "https://cdn.discordapp.com/attachments/485011383721787415/823138692189257728/f8dc4f7e2de553ed983b75199b2bdc1e.gif")
 		await ctx.send(embed=embed)
 		while True:
@@ -62,7 +62,7 @@ def main():
 		titre="Panel Help Raid"
 		desc="\n/create\n**Crée 10 channel**\n\n/spam\n**Spam le message souhaité**\n\n/stop\n**Stop le spam**\n\n/destroy\n**Supprimme tous les channels textuels/vocaux**\n\n"
 		embed=discord.Embed(title=titre, description=desc, color=0)
-		embed.set_image(url = "https://cdn.discordapp.com/attachments/485011383721787415/823139642705707058/1517155060_815166985_preview_tumblr_ocmywp67Tp1r72ht7o1_500.gif")
+		embed.set_image(url = "https://cdn.discordapp.com/attachments/485011383721787415/823184119281745952/2659116c2a560652d8fca0790c88a359.gif")
 		embed.set_footer(text = "Black Goku Selfbot | Raid Panel")
 		await ctx.send(embed=embed)
 		while True:
@@ -88,7 +88,7 @@ def main():
 		titre="Panel Help Fun"
 		desc="\n/ascii \n**Ecrit le message souhaité en art ascii**\n\n/embed\n**Ecrit le message souhaité dans un embed**\n\n/pp\n**Affiche la photo de profil de l'utilisateur mentionné**"
 		embed=discord.Embed(title=titre, description=desc, color=0)
-		embed.set_image(url = "https://cdn.discordapp.com/attachments/485011383721787415/823140089667387392/tumblr_ocpe83PNqG1rqe0rbo1_500.gif")
+		embed.set_image(url = "https://cdn.discordapp.com/attachments/485011383721787415/823184736599015474/tumblr_static_tumblr_static_8047l7nf6gsgc40o8488kooog_focused_v3.gif")
 		embed.set_footer(text = "Black Goku Selfbot | Fun Panel")
 		await ctx.send(embed=embed)
 		while True:
@@ -114,7 +114,7 @@ def main():
 		titre="Panel Help Commandes"
 		desc="\n/fun\n`ascii`, `embed`, `pp`\n\n/moderation\n`ban`, `kick`\n\n/utile\n`soon`\n\n/raid\n`create`, `spam`, `stop`, `destroy`\n\n/statut\n`stream`, `watch`, `listen`, `play`\n\n/credit\n`credit`"
 		embed=discord.Embed(title=titre, description=desc, color=0)
-		embed.set_image(url = "https://cdn.discordapp.com/attachments/485011383721787415/822943021452361769/giphy_1.gif")
+		embed.set_image(url = "https://cdn.discordapp.com/attachments/485011383721787415/823185119493750834/09f06f40c24fe904b9fff5e47ca75ff4983e069ar1-500-281_hq.gif")
 		embed.set_footer(text = "Black Goku Selfbot | Panel Help Cmd")
 		await ctx.send(embed=embed)
 		while True:
