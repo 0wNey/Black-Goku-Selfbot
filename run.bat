@@ -1,4 +1,4 @@
 @echo off
-title ::BLACK GOKU SELFBOT::
+title ::Uchiha Project::
 python3 main.py
 pause
