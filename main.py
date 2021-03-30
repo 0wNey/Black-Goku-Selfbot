@@ -1,6 +1,4 @@
 import asyncio
-from art import *
-from termcolor import colored
 import subprocess
 import discord, json, pyfiglet
 from discord.ext import commands
